@@ -1,6 +1,6 @@
 {
   "name": "polish-calculation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "计算四则运算表达式结果计算-逆波兰",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "四则运算"
   ],
   "author": "z-joy",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/z-Joy/polish-calculation/issues"
   },
